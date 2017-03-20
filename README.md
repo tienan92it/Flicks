@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/QLW0y1y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/QLW0y1y.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ezgif.com](https://ezgif.com/video-to-gif).
 
